@@ -10,6 +10,20 @@
 
 
 
+->Project contains implementation of REST API with post,put,delete,get and patch methods
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ->Employee_api.cs file in controller directory contains the code for api
